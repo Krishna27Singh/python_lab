@@ -1,0 +1,5 @@
+list1 = input("Enter elements in list1: ").split(',')
+list2 = input("Enter elements in list2: ").split(',')
+zipped_list = zip(list1,list2)
+print(list(zipped_list))
+print("unzipped list are", list1, list2)

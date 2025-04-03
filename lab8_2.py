@@ -1,0 +1,8 @@
+tuple1 = (1,2,3)
+tuple2 = (3,4,5)
+list1 = list(tuple1)
+list2 = list(tuple2)
+list1.extend(list2)
+result = set(list1)
+final_result = tuple(result)
+print(final_result)

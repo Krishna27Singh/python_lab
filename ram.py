@@ -24,6 +24,3 @@
 #     print(" " * ((9 - i) // 2), *range(1, i + 1))
 # for i in range(3, 10, 2):
 #     print(" " * ((9 - i) // 2), *range(1, i + 1))
-
-
-print(*range(1,5))
