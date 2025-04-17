@@ -8,5 +8,5 @@ for i in stack:
     count = count+1
     if(count%3==0):
         answer = answer + ","
-    answer = answer + i
+    answer = answer + i 
 print(answer)
