@@ -1,0 +1,5 @@
+file = open("data.txt", "w")
+# content = file.read()
+# print(content)
+file.write("1,2,3,4,5")
+file.close()
