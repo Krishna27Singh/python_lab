@@ -1,3 +1,3 @@
-file = open("test.txt", "r")
-content = file.read()
+file = open("test.txt","r")
+content=file.read()
 print(content)
