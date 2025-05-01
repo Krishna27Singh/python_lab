@@ -1,4 +1,8 @@
 import math_operations
+import sys as sys
+
+# sys.path.insert(0, "package1")
+# print(sys.path)
 
 num1 = int(input("Enter first number"))
 num2 = int(input("Enter second number"))
